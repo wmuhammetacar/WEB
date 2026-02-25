@@ -1,0 +1,48 @@
+{
+  "name": "Muhammet Acar | Senior Full-Stack Developer",
+  "short_name": "Muhammet Acar",
+  "lang": "tr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f8ff",
+  "theme_color": "#1e3a8a",
+  "description": "Web, mobil ve backend odakli yazilim gelistirme portfoyu ve rezervasyon.",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/logo-monogram.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Rezervasyon",
+      "short_name": "Rezervasyon",
+      "url": "./booking.html"
+    },
+    {
+      "name": "Projeler",
+      "short_name": "Projeler",
+      "url": "./projects.html"
+    },
+    {
+      "name": "Site Haritasi",
+      "short_name": "Harita",
+      "url": "./sitemap.html"
+    }
+  ]
+}
